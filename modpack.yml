@@ -1,0 +1,41 @@
+# This file defines what mods are included in the modpack
+version: 1.0.0
+
+forge:
+  version: 1.16.1-32.0.71
+  url: https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.71/forge-1.16.1-32.0.71-installer.jar
+
+mods:
+  - name: AppleSkin
+    version: 1.0.14
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/appleskin
+    downloadUrl: https://media.forgecdn.net/files/2997/288/AppleSkin-mc1.16.1-forge-1.0.14.jar
+  - name: Fast Leaf Decay
+    version: 23
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
+    downloadUrl: https://media.forgecdn.net/files/2990/190/FastLeafDecay-v23.jar
+  - name: VoxelMap
+    version: 1.10.6b
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/voxelmap
+    downloadUrl: https://media.forgecdn.net/files/3007/979/forgemod_VoxelMap-1.10.6b_for_1.16.1.jar
+  - name: Just Enough Items
+    version: 7.0.0.6
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/jei
+    downloadUrl: https://media.forgecdn.net/files/2995/910/jei-1.16.1-7.0.0.6.jar
+  - name: Mekanism
+    version: 1.10.0.2.425
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism/files/3006617
+    downloadUrl: https://media.forgecdn.net/files/3006/617/Mekanism-1.16.1-10.0.2.425.jar
+  - name: MekanismAdditions
+    version: 1.10.0.2.425
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-additions/files/3006621
+    downloadUrl: https://media.forgecdn.net/files/3006/621/MekanismAdditions-1.16.1-10.0.2.425.jar
+  - name: MekanismGenerators
+    version: 1.10.0.2.425
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/3006619
+    downloadUrl: https://media.forgecdn.net/files/3006/619/MekanismGenerators-1.16.1-10.0.2.425.jar
+  - name: MekanismTools
+    version: 1.10.0.2.425
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/3006620
+    downloadUrl: https://media.forgecdn.net/files/3006/620/MekanismTools-1.16.1-10.0.2.425.jar
+
