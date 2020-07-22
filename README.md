@@ -9,7 +9,7 @@
 
 ### 1) Getting the modpack
 
-Latest release can be found at: https://github.com/soapiestwaffles/minecraft-modpack/releases
+Latest release can be found at: https://github.com/soapiestwaffles/minecraft-modpack/releases/latest
 
 ### 2) Set up MC Forge
 
