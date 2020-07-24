@@ -1,5 +1,5 @@
 # This file defines what mods are included in the modpack
-version: 1.1.0
+version: 1.1.1
 
 forge:
   version: 1.16.1-32.0.71
@@ -38,7 +38,3 @@ mods:
     version: 1.10.0.2.425
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/3006620
     downloadUrl: https://media.forgecdn.net/files/3006/620/MekanismTools-1.16.1-10.0.2.425.jar
-  - name: ConnectedTexturesMod
-    version: "MC1.16.1-1.1.0.1"
-    modUrl: https://www.curseforge.com/minecraft/mc-mods/ctm
-    downloadUrl: https://media.forgecdn.net/files/2988/953/CTM-MC1.16.1-1.1.0.1.jar
