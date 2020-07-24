@@ -1,5 +1,5 @@
 # This file defines what mods are included in the modpack
-version: 1.1.1
+version: 1.2.0
 
 forge:
   version: 1.16.1-32.0.71
@@ -23,18 +23,26 @@ mods:
     modUrl: https://www.curseforge.com/minecraft/mc-mods/jei
     downloadUrl: https://media.forgecdn.net/files/2995/910/jei-1.16.1-7.0.0.6.jar
   - name: Mekanism
-    version: 1.10.0.2.425
+    version: 10.0.3.426
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism/files/3006617
-    downloadUrl: https://media.forgecdn.net/files/3006/617/Mekanism-1.16.1-10.0.2.425.jar
+    downloadUrl: https://media.forgecdn.net/files/3010/980/Mekanism-1.16.1-10.0.3.426.jar
   - name: MekanismAdditions
-    version: 1.10.0.2.425
+    version: 10.0.3.426
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-additions/files/3006621
-    downloadUrl: https://media.forgecdn.net/files/3006/621/MekanismAdditions-1.16.1-10.0.2.425.jar
+    downloadUrl: https://media.forgecdn.net/files/3010/984/MekanismAdditions-1.16.1-10.0.3.426.jar
   - name: MekanismGenerators
-    version: 1.10.0.2.425
+    version: 10.0.3.426
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/3006619
-    downloadUrl: https://media.forgecdn.net/files/3006/619/MekanismGenerators-1.16.1-10.0.2.425.jar
+    downloadUrl: https://media.forgecdn.net/files/3010/982/MekanismGenerators-1.16.1-10.0.3.426.jar
   - name: MekanismTools
-    version: 1.10.0.2.425
+    version: 10.0.3.426
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/3006620
-    downloadUrl: https://media.forgecdn.net/files/3006/620/MekanismTools-1.16.1-10.0.2.425.jar
+    downloadUrl: https://media.forgecdn.net/files/3010/983/MekanismTools-1.16.1-10.0.3.426.jar
+  - name: The One Probe
+    version: 3.0.1
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/the-one-probe
+    downloadUrl: https://media.forgecdn.net/files/3008/328/theoneprobe-1.16-3.0.1-beta.jar
+  - name: CTM
+    version: 1.1.0.1
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/ctm
+    downloadUrl: https://media.forgecdn.net/files/2988/953/CTM-MC1.16.1-1.1.0.1.jar
