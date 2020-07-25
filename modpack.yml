@@ -1,9 +1,9 @@
 # This file defines what mods are included in the modpack
-version: 1.2.0
+version: 1.3.0
 
 forge:
-  version: 1.16.1-32.0.71
-  url: https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.71/forge-1.16.1-32.0.71-installer.jar
+  version: 1.16.1-32.0.75
+  url: https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.75/forge-1.16.1-32.0.75-installer.jar
 
 mods:
   - name: AppleSkin
@@ -42,7 +42,3 @@ mods:
     version: 3.0.1
     modUrl: https://www.curseforge.com/minecraft/mc-mods/the-one-probe
     downloadUrl: https://media.forgecdn.net/files/3008/328/theoneprobe-1.16-3.0.1-beta.jar
-  - name: CTM
-    version: 1.1.0.1
-    modUrl: https://www.curseforge.com/minecraft/mc-mods/ctm
-    downloadUrl: https://media.forgecdn.net/files/2988/953/CTM-MC1.16.1-1.1.0.1.jar
