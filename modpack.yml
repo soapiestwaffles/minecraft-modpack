@@ -1,9 +1,9 @@
 # This file defines what mods are included in the modpack
-version: 1.4.0
+version: 1.5.0
 
 forge:
-  version: 1.16.1-32.0.75
-  url: https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.75/forge-1.16.1-32.0.75-installer.jar
+  version: 1.16.1-32.0.88
+  url: https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.88/forge-1.16.1-32.0.88-installer.jar
 
 mods:
   - name: AppleSkin
