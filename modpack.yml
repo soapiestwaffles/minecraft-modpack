@@ -23,21 +23,21 @@ mods:
     modUrl: https://www.curseforge.com/minecraft/mc-mods/jei
     downloadUrl: https://media.forgecdn.net/files/2995/910/jei-1.16.1-7.0.0.6.jar
   - name: Mekanism
-    version: 10.0.3.426
+    version: 10.0.6.429
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism/files/3006617
-    downloadUrl: https://media.forgecdn.net/files/3010/980/Mekanism-1.16.1-10.0.3.426.jar
+    downloadUrl: https://media.forgecdn.net/files/3017/574/Mekanism-1.16.1-10.0.6.429.jar
   - name: MekanismAdditions
-    version: 10.0.3.426
+    version: 10.0.6.429
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-additions/files/3006621
-    downloadUrl: https://media.forgecdn.net/files/3010/984/MekanismAdditions-1.16.1-10.0.3.426.jar
+    downloadUrl: https://media.forgecdn.net/files/3017/578/MekanismAdditions-1.16.1-10.0.6.429.jar
   - name: MekanismGenerators
-    version: 10.0.3.426
+    version: 10.0.6.429
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/3006619
-    downloadUrl: https://media.forgecdn.net/files/3010/982/MekanismGenerators-1.16.1-10.0.3.426.jar
+    downloadUrl: https://media.forgecdn.net/files/3017/576/MekanismGenerators-1.16.1-10.0.6.429.jar
   - name: MekanismTools
-    version: 10.0.3.426
+    version: 10.0.6.429
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/3006620
-    downloadUrl: https://media.forgecdn.net/files/3010/983/MekanismTools-1.16.1-10.0.3.426.jar
+    downloadUrl: https://media.forgecdn.net/files/3017/577/MekanismTools-1.16.1-10.0.6.429.jar
   - name: The One Probe
     version: 3.0.1
     modUrl: https://www.curseforge.com/minecraft/mc-mods/the-one-probe
