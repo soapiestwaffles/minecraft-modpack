@@ -15,29 +15,29 @@ mods:
     modUrl: https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
     downloadUrl: https://media.forgecdn.net/files/2990/190/FastLeafDecay-v23.jar
   - name: VoxelMap
-    version: 1.10.6b
+    version: 1.10.7
     modUrl: https://www.curseforge.com/minecraft/mc-mods/voxelmap
-    downloadUrl: https://media.forgecdn.net/files/3007/979/forgemod_VoxelMap-1.10.6b_for_1.16.1.jar
+    downloadUrl: https://media.forgecdn.net/files/3017/431/forgemod_VoxelMap-1.10.7_for_1.16.1.jar
   - name: Just Enough Items
-    version: 7.0.0.6
+    version: 7.0.1.9
     modUrl: https://www.curseforge.com/minecraft/mc-mods/jei
-    downloadUrl: https://media.forgecdn.net/files/2995/910/jei-1.16.1-7.0.0.6.jar
+    downloadUrl: https://media.forgecdn.net/files/3022/16/jei-1.16.1-7.0.1.9.jar
   - name: Mekanism
-    version: 10.0.6.429
+    version: 10.0.8.431
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism/files/3006617
-    downloadUrl: https://media.forgecdn.net/files/3017/574/Mekanism-1.16.1-10.0.6.429.jar
+    downloadUrl: https://media.forgecdn.net/files/3022/330/Mekanism-1.16.1-10.0.8.431.jar
   - name: MekanismAdditions
-    version: 10.0.6.429
+    version: 10.0.8.431
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-additions/files/3006621
-    downloadUrl: https://media.forgecdn.net/files/3017/578/MekanismAdditions-1.16.1-10.0.6.429.jar
+    downloadUrl: https://media.forgecdn.net/files/3022/334/MekanismAdditions-1.16.1-10.0.8.431.jar
   - name: MekanismGenerators
-    version: 10.0.6.429
+    version: 10.0.8.431
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/3006619
-    downloadUrl: https://media.forgecdn.net/files/3017/576/MekanismGenerators-1.16.1-10.0.6.429.jar
+    downloadUrl: https://media.forgecdn.net/files/3022/332/MekanismGenerators-1.16.1-10.0.8.431.jar
   - name: MekanismTools
-    version: 10.0.6.429
+    version: 10.0.8.431
     modUrl: https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/3006620
-    downloadUrl: https://media.forgecdn.net/files/3017/577/MekanismTools-1.16.1-10.0.6.429.jar
+    downloadUrl: https://media.forgecdn.net/files/3022/333/MekanismTools-1.16.1-10.0.8.431.jar
   - name: The One Probe
     version: 3.0.1
     modUrl: https://www.curseforge.com/minecraft/mc-mods/the-one-probe
@@ -46,3 +46,7 @@ mods:
     version: 18.0.0
     modUrl: https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
     downloadUrl: https://media.forgecdn.net/files/3012/994/inventorysorter-1.16.1-18.0.0.jar
+  - name: ConnectedTexturesMod
+    version: 1.1.0.1
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/ctm
+    downloadUrl: https://media.forgecdn.net/files/2988/953/CTM-MC1.16.1-1.1.0.1.jar
