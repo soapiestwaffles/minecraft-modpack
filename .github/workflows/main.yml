@@ -44,7 +44,7 @@ jobs:
     - name: Create release
       id: create_release
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
       run: |
         echo "Creating release to github..."
         python .github/workflows/create-release.py
