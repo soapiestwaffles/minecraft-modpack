@@ -45,7 +45,7 @@ def main():
     modpack = parseModpackDefinitions(MODPACK_FILE)
 
     headers = {
-        'Authorization': 'token ' + os.environ['DEPLOY_TOKEN'],
+        'Authorization': 'token ' + os.environ['GITHUB_TOKEN'],
         'Content-type': 'application/json'
     }
 
@@ -76,7 +76,7 @@ def main():
     template = URITemplate(createResult['upload_url'])
     uploadUrl = template.expand(name=zipFilename)
     headers = {
-        'Authorization': 'token ' + os.environ['DEPLOY_TOKEN'],
+        'Authorization': 'token ' + os.environ['GITHUB_TOKEN'],
         'Content-type': 'application/octet-stream',
         'Accept': 'application/json'
     }
