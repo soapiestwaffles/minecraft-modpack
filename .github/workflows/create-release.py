@@ -55,6 +55,12 @@ def main():
     with open('release.json', 'r') as f:
         releaseJson = f.read()
 
+    if releaseJson == "":
+        print("ERROR: releaseJson empty")
+    else:
+        print("releaseJson:")
+        print(releaseJson)
+        
     # payload = {
     #     "tag_name": modpack['version'],
     #     "name": "Release {}".format(modpack['version']),
