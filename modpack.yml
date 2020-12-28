@@ -1,5 +1,5 @@
 # This file defines what mods are included in the modpack
-version: 1.7.1
+version: 1.7.2
 
 forge:
   version: 1.16.4-35.1.11
@@ -46,10 +46,10 @@ mods:
     version: 3.0.6
     modUrl: https://www.curseforge.com/minecraft/mc-mods/the-one-probe
     downloadUrl: https://media.forgecdn.net/files/3108/607/theoneprobe-1.16-3.0.6.jar
-#   - name: Inventory Sorter
-#     version: 18.0.0
-#     modUrl: https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
-#     downloadUrl: https://media.forgecdn.net/files/3012/994/inventorysorter-1.16.1-18.0.0.jar
+  - name: Inventory Sorter
+    version: 18.1.0
+    modUrl: https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
+    downloadUrl: https://media.forgecdn.net/files/3077/903/inventorysorter-1.16.1-18.1.0.jar
   - name: ConnectedTexturesMod
     version: 1.1.2.6
     modUrl: https://www.curseforge.com/minecraft/mc-mods/ctm
